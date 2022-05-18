@@ -7,12 +7,6 @@
 - 📫 How to reach me: Mail: srisanthoshreddymedapati@gmail.com
 ### Github stats 📊
 
-<p align="center">
-  <a>
-    <img alt = "GitHub Stats" src = "https://github-readme-stats.vercel.app/api?username=srisanthoshreddy-medapati&show_icons=true&theme=light">
-  </a>
- 
-  <br>
   
 
 <img src = "https://github-readme-streak-stats.herokuapp.com/?user=srisanthoshreddy-medapati">
