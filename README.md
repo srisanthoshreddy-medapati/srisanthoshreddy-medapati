@@ -8,12 +8,10 @@
 ### Github stats 📊
 
 <p align="center">
-  <a href="https://sourcerer.io/srisanthoshreddy-medapati">
+  <a>
     <img alt = "GitHub Stats" src = "https://github-readme-stats.vercel.app/api?username=srisanthoshreddy-medapati&show_icons=true&theme=light">
   </a>
-  <a>
-    <img alt = "GitHub Streaks" src = "https://github-readme-streak-stats.herokuapp.com?user=srisanthoshreddy-medapati&theme=blood&ring=1E90FF&sideNums=1E90FF&sideLabels=1E90FF&currStreakLabel=1E90FF&fire=FF0000&currStreakNum=FF0000">
-  </a>
+ 
   <br>
   
 
