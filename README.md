@@ -6,11 +6,11 @@
 - 💬 Ask me about Java
 - 📫 How to reach me: Mail: srisanthoshreddymedapati@gmail.com
 <p align="center">
-<img src = "https://github-readme-stats.vercel.app/api?username=srisanthoshreddy-medapati&show_icons=true&theme=highcontrast">
+<img alt="GitHub Stats" src = "https://github-readme-stats.vercel.app/api?username=srisanthoshreddy-medapati&show_icons=true&theme=highcontrast">
   
   <br>
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=srisanthoshreddy-medapati">
+<img alt="" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=srisanthoshreddy-medapati">
   <br>
   
 
