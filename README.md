@@ -8,7 +8,7 @@
 ### Github stats 📊
 
 <p align="center">
-  <a>
+  <a href="https://sourcerer.io/srisanthoshreddy-medapati">
     <img alt = "GitHub Stats" src = "https://github-readme-stats.vercel.app/api?username=srisanthoshreddy-medapati&show_icons=true&theme=light">
   </a>
   <a>
