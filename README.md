@@ -5,12 +5,15 @@
 - 🤔 I’m looking for help with React
 - 💬 Ask me about Java
 - 📫 How to reach me: Mail: srisanthoshreddymedapati@gmail.com
-<p align="center">
-<img alt="GitHub Stats" src = "https://github-readme-stats.vercel.app/api?username=srisanthoshreddy-medapati&show_icons=true&theme=highcontrast">
-  
-  <br>
+### Github stats 📊
 
-<img alt="" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=srisanthoshreddy-medapati">
+<p align="center">
+  <a>
+    <img alt = "GitHub Stats" src = "https://github-readme-stats.vercel.app/api?username=srisanthoshreddy-medapati&show_icons=true&theme=light">
+  </a>
+  <a>
+    <img alt = "GitHub Streaks" src = "https://github-readme-streak-stats.herokuapp.com?user=srisanthoshreddy-medapati&theme=blood&ring=1E90FF&sideNums=1E90FF&sideLabels=1E90FF&currStreakLabel=1E90FF&fire=FF0000&currStreakNum=FF0000">
+  </a>
   <br>
   
 
