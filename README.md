@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="mailto:srisanthoshreddymedapati@gmail.com">
-    <img alt="Gmail" src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Contact/email.svg" style="vertical-align:top"/>
+    <img alt="Gmail" src="https://www.google.com/inbox/assets/static/images/animation.png" style="vertical-align:top"/>
   </a>
 
   <a href="https://www.linkedin.com/in/sri-santhosh-reddy-medapati-9129b5188/">
